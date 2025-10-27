@@ -1,0 +1,1 @@
+An assignemnt that includes implementing features like product listing, filtering, admin inventory management, and secure API routes with proper backend integration and data handling.
